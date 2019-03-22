@@ -1,0 +1,1 @@
+BaseTableWidget是一个建立在QTableWidget类上的表格基础类，主要封装了一些常用的功能更方便使用，使用BaseTableItem来存储每一个表项的数据，同时也提供了一个委托类来满足更复杂的交互。
